@@ -38,7 +38,9 @@ If not, explain what is missing and why.
 
 #### Link to Design Inspiration
 
-* Show us what you used as design inspiration (another color picker site, a dribbble UI element, a user flow, etc.) and explain what you stole from it
+https://dribbble.com/shots/4783850-Statistics-Side-Bar
+
+I didn't get it working though.
 
 #### Please feel free to ask any other questions or make any other statements below!
 
